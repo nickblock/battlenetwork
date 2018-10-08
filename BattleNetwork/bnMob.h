@@ -1,8 +1,8 @@
 #pragma once
 #include "bnCharacter.h"
-#include "bnSpawnPolicy.h"
 #include "bnMeta.h"
 #include "bnBattleItem.h"
+#include "bnField.h"
 #include <vector>
 #include <map>
 #include <stdexcept>
